@@ -9,6 +9,7 @@ namespace DeleteAfter
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// Test sync VS Github
         [STAThread]
         static void Main()
         {

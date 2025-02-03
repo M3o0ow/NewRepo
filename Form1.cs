@@ -14,5 +14,15 @@ namespace DeleteAfter
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Form loaded");
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Marc Andre");
+        }
     }
 }
